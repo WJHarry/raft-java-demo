@@ -1,0 +1,29 @@
+member:
+  id: 2
+  membersList:
+    -
+      id: 1
+      host: 127.0.0.1
+      port: 8080
+    -
+      id: 2
+      host: 127.0.0.1
+      port: 8081
+    -
+      id: 3
+      host: 127.0.0.1
+      port: 8082
+    -
+      id: 4
+      host: 127.0.0.1
+      port: 8083
+    -
+      id: 5
+      host: 127.0.0.1
+      port: 8084
+
+
+app:
+  server:
+    port: 8802
+    
